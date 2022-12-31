@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-Add Lins to project
-=======
-Add Lins to project
->>>>>>> f3076f0177d56820a02ec2c1091e9362e331d505
